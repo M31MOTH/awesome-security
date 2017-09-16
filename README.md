@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [scapy](https://github.com/secdev/scapy) - Scapy: the python-based interactive packet manipulation program & library.
 - [Pompem](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
 - [Nmap](https://nmap.org) - Nmap is a free and open source utility for network discovery and security auditing.
+- [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
 
 ### Monitoring / Logging
 
